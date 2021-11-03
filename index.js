@@ -46,7 +46,7 @@ function numerosPrimos() {
     })
 }
 function calculadoraBasica() {
-  //console.log("f3");
+  console.log("f3");
 }
 function f4() {
   //console.log("f4");
